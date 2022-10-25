@@ -1,0 +1,13 @@
+{
+  "env": {
+    "browser": true
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 2022,
+    "sourceType": "module"
+  },
+  "plugins": ["eslint-plugin-local-rules"]
+}

@@ -1,0 +1,8 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["eslintrc.json"],
+      "url": "http://json.schemastore.org/appsscript"
+    }
+  ]
+}
