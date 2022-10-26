@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "lint": "eslint src --fix --ext js,ts,jsx,tsx"
+  },
   "devDependencies": {
     "eslint": "^8.26.0",
     "eslint-plugin-local-rules": "^1.3.2"
